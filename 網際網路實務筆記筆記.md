@@ -1,0 +1,22 @@
+# 我的第一個HackMD筆記
+## 主題：BandLab Technologies(樂團實驗室技術公司)
+### 是一家成立於2015年的新加坡公司，經營一個名為BandLab的社群音樂平台，也擁有多個音樂相關品牌，包括Harmony和Heritage Guitars；Guitar.com、NME、Uncut和MusicTech.com媒體平台；以及Swee Lee樂器零售商和經銷商。
+
+{%youtube 8v5H_rhw72k %}
+
+ ## 功用
+ - ### 它可以在瀏覽器或獨立應用程式中運行
+ - ### 獨立發行和銷售您的音樂
+--- 
+
+## 聽起來像專業人士。立竿見影。
+### 借助世界領先的線上母帶處理服務，始終保持最佳狀態。由榮獲葛萊美多白金獎的製作人和工程師共同設計。閃電般的速度，沒有限制。
+![ ](https://hackmd.io/_uploads/H1QSdqZhT.png)
+
+### 發行任意數量的單曲、EPS 和專輯，並保留所有收入！無佣金、無費用、無隱藏條款和條件。
+![image ](https://hackmd.io/_uploads/HyPOD9b26.png)
+
+
+
+
+
